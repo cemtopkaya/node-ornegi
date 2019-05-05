@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cemtopkaya/node-paketi.git"
+    "url": "git+https://github.com/cemtopkaya/node-ornegi.git"
   },
   "author": "Cem Topkaya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cemtopkaya/node-paketi/issues"
+    "url": "https://github.com/cemtopkaya/node-ornegi/issues"
   },
-  "homepage": "https://github.com/cemtopkaya/node-paketi#readme"
+  "homepage": "https://github.com/cemtopkaya/node-ornegi#readme"
 }
