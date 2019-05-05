@@ -1,6 +1,6 @@
 {
   "name": "@cemt/node-ornegi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "node ornegi paketi olusturuyorum",
   "main": "index.js",
   "scripts": {
