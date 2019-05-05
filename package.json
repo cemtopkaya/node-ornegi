@@ -1,6 +1,6 @@
 {
   "name": "@cemtopkaya/node-ornegi",
-  "version": "1.0.11",
+  "version": "1.1.0",
   "description": "node ornegi paketi olusturuyorum",
   "main": "index.js",
   "scripts": {
